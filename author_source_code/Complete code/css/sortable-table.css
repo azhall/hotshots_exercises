@@ -1,0 +1,28 @@
+﻿table { width:650px; margin:auto; border-collapse:collapse; }
+tbody { border-bottom: 2px solid #000; }
+tbody tr:nth-child(odd) td { background-color:#e6e6e6; }
+th, td { padding:10px 50px 10px 0; border:none; cursor:default; }
+th { border-bottom:2px solid #000; position:relative; cursor:pointer; }
+td:first-child, th:first-child { padding-left:10px; }
+td:last-child { padding-right:10px; }
+
+.ascending:hover:after { content:""; display:block; border-width:7px; border-style:solid; border-left-color:transparent; border-right-color:transparent; border-top-color:#000; border-bottom:none; position:absolute; margin-top:-3px; right:15px; top:50%; }
+.descending:hover:after { content:""; display:block; border-width:7px; border-style:solid; border-left-color:transparent; border-right-color:transparent; border-bottom-color:#000; border-top:none; position:absolute; margin-top:-3px; right:15px; top:50%; }
+
+tfoot label, tfoot select, tfoot nav { margin-right:4px; float: left; line-height:24px; }
+tfoot select { margin-right:20px; }
+tfoot nav a { display:inline-block; float:left; font-size:30px; line-height:20px; text-decoration:none; color:#000; }
+
+tfoot nav ul { margin:3px 0 0 10px; }
+tfoot nav ul, tfoot nav li { float:left; }
+tfoot nav li { margin-right:10px; }
+tfoot nav li a { font-size:20px; }
+
+tfoot nav a.disabled, tfoot nav a.disabled:hover { opacity: .25; cursor: default; color:#aaa; }
+tfoot nav li a.active, tfoot a:hover { color:#aaa; }
+
+tfoot .filter { float:right; }
+tfoot .filter label { display:inline-block; height:0; line-height:0; text-indent:-9999em; overflow:hidden; }
+tfoot .filter select { margin-right:0; float:right; }
+tfoot .filter span { display:block; padding:0 7px; border:1px solid #abadb3; border-radius:3px; float:right; line-height:24px; }
+tfoot .filter span a { display:inline-block; margin-left:4px; color:#ff0000; text-decoration:none; font-weight:bold; }

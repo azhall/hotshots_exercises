@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>A Knockout and jQuery Sortable Table</title>
+    <link rel="stylesheet" href="css/common.css" />
+    <link rel="stylesheet" href="css/sortable-table.css" />
+</head>
+<body>
+
+    <table>
+        <thead>
+            <tr data-bind="click: sort">
+                <th data-bind="css: nameOrder">Name</th>
+                <th data-bind="css: numberOrder">Atomic Number</th>
+                <th data-bind="css: symbolOrder">Symbol</th>
+                <th data-bind="css: weightOrder">Atomic Weight</th>
+                <th data-bind="css: discoveredOrder">Discovered</th>
+            </tr>
+        </thead>
+        <tbody data-bind="foreach: elementsPaged">
+            <tr>
+                <td data-bind="text: name"></td>
+                <td data-bind="text: number"></td>
+                <td data-bind="text: symbol"></td>
+                <td data-bind="text: weight"></td>
+                <td data-bind="text: discovered"></td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="5">
+                    <div id="paging" class="clearfix">
+                        <label for="perPage">Items per page:</label>
+                        <select id="perPage" data-bind="value: pageSize, event: { change: goToFirstPage }">
+                            <option value="10">10</option>
+                            <option value="30">30</option>
+                            <option value="all">All</option>
+                        </select>
+                        <nav>
+                            <a href="#" title="Previous page" data-bind="click: goToPrevPage">&laquo;</a>
+                            <ul id="pages" data-bind="foreach: pages">
+                                <li><a href="#" data-bind="text: num, click: $parent.changePage"></a></li>
+                            </ul>
+                            <a href="#" title="Next page" data-bind="click: goToNextPage">&raquo;</a>
+                        </nav>
+                        <div class="filter clearfix">
+                            <label for="states">Filter by state:</label>
+                            <select id="states" data-bind="foreach: states, event: { change: filterStates }">
+                                <option data-bind="value: state, text: state"></option>
+                            </select>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+    
+    <script src="js/jquery-1.9.0.min.js"></script>
+    <script src="js/knockout-2.2.1.js"></script>
+    <script src="js/table-data.js"></script>
+    <script src="js/sortable-table.js"></script>
+</body>
+</html>

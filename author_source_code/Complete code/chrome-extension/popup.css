@@ -1,0 +1,7 @@
+﻿body { width:32em; padding:0 2em; }
+header { padding-top:2em; }
+form { padding:2.5em 0 2em; }
+label { float:left; font-size:1.5em; }
+button { margin-top:-.5em; float:right; }
+ul { padding:0 0 1em; font-size:1.5em; }
+iframe { display:none; }

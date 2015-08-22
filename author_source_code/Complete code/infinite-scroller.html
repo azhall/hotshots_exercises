@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>jQuery Infinite Scroller</title>
+    <link rel="stylesheet" href="css/common.css" />
+    <link rel="stylesheet" href="css/infinite-scroller.css" />
+</head>
+    <body>
+        <div id="videoList"></div>
+
+        <script id="containerTemplate" type="text/x-jsrender">
+            <section>
+                <header class="clearfix">
+                    <img src="{{>avatar}}" alt="{{>name}}" />
+                    <hgroup>
+                        <h1>{{>name}}</h1>
+                        <h2>{{>summary.substring(19, 220)}}</h2>
+                    </hgroup>
+                </header>
+                <ul id="videos"></ul>
+            </section>
+        </script>
+
+        <script id="videoTemplate" type="text/x-jsrender">
+            <li>
+                <article class="clearfix">
+                    <header>
+                        <a href="{{>content[5]}}" title="Watch video"><img src="{{>thumbnail.hqDefault}}" alt="{{>title}}" /></a>
+                        <cite><a href="{{>content[5]}}" title="Watch video">{{>title}}</a></cite>
+                    </header>
+                    <p>
+                        {{>~Truncate(description)}}
+                        <a class="button" href="{{>content[5]}}" title="Watch video">Watch video</a>
+                    </p>
+                    <div class="meta">
+                        <dl>
+                            <dt>Duration:</dt><dd>{{>~FormatTime(duration)}}</dd>
+                            <dt>Category:</dt><dd>{{>category}}</dd>
+                            <dt>Comments:</dt><dd>{{>commentCount}}</dd>
+                            <dt>Views:</dt><dd>{{>viewCount}}</dd>
+                            <dt>Likes:</dt><dd>{{>likeCount}}</dd>
+                        </dl>
+                    </div>
+                </article>
+            </li>
+        </script>
+        
+        <script src="js/jquery-1.9.0.min.js"></script>
+        <script src="http://borismoore.github.com/jsrender/jsrender.js"></script>
+        <script src="js/jquery.imagesloaded.min.js"></script>
+        <script src="js/infinite-scroller.js"></script>
+    </body>
+</html>

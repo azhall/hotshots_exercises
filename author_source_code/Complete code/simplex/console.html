@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>jqHeat Management Console</title>
+    <link rel="stylesheet" href="../css/common.css" />
+    <link rel="stylesheet" href="css/console.css" />
+</head>
+<body class="jqheat">
+    <header>
+        <h1>jqHeat Management Console</h1>
+        <fieldset>
+            <legend>jqHeat page loader</legend>
+            <input placeholder="Enter URL" id="url" /><select id="layouts"></select><button id="load" type="button">Load page</button>
+        </fieldset>
+    </header>
+    <section role="main">
+        <iframe scrolling="no" id="page"></iframe>
+    </section>
+
+    <script src="../js/jquery-1.9.0.min.js"></script>
+    <script src="console.js"></script>
+</body>
+</html>
