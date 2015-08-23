@@ -1,0 +1,14 @@
+Using $(function(){}); is a shortcut to jQuery's document.ready function, which is fired once the DOM for the page has loaded.
+
+Best practice is to alias the $ character within an automatically invoked anonymous function, or an immediately invoked function expression if you prefer. This can be done using the syntax (function($) { … }(jQuery));.
+
+For best performance when using jQuery, it's best to select elements from the page and store them in variables instead of repeatedly selecting them from the page.
+
+It is best practice to define variables at the top of the function they are scoped to because of a phenomenon known as hoisting, in which variables defined deep inside a function, inside a for loop for example, are "hoisted" to the top of the function in some situations, potentially causing errors that are hard to track down.
+
+Any style properties that are usually defined using hyphenated words, such as background-image, should be camel-cased when used with jQuery's css() method in conjunction with an object.
+
+jQuery's on() method, introduced in version 1.7, replaces the bind(), live(), and delegate() methods, which are now deprecated. Using on() is now the recommended way of attaching event handlers in jQuery.
+
+https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle
+
