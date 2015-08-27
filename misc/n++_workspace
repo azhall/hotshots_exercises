@@ -1,0 +1,1024 @@
+<NotepadPlus>
+    <Project name="jQuery Hotshots">
+        <Folder name=".git">
+            <Folder name="logs">
+                <Folder name="refs">
+                    <Folder name="heads">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\logs\refs\heads\master" />
+                    </Folder>
+                </Folder>
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\logs\HEAD" />
+            </Folder>
+            <Folder name="objects">
+                <Folder name="00">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\00\251330c00136622aaebe685a569301e78f7025" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\00\577887ea3f42505b6e14149bcd45defa2132e7" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\00\e7f257437d61debe643dc215e1d7765542aafd" />
+                </Folder>
+                <Folder name="01">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\01\3251997cc8d211719e306b411bdbb862fdeae4" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\01\a915871efe308a74b3c06e62b8d5299a26608c" />
+                </Folder>
+                <Folder name="03">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\03\e4acbba5c05a42b25521377b1312b5e3762693" />
+                </Folder>
+                <Folder name="04">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\04\423b4965028b395ce314a15fe2e7c55f562677" />
+                </Folder>
+                <Folder name="05">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\05\b0fe97caa6079c9abfe15380300bd861544798" />
+                </Folder>
+                <Folder name="06">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\06\fe7823cb0a0ca6a0983907d68dbb251680b70f" />
+                </Folder>
+                <Folder name="07">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\07\e95deaffce7b8d8c9135b77d3d20fd5aa6c160" />
+                </Folder>
+                <Folder name="09">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\09\afc58e89c193111afc0301e37a12ab2301364d" />
+                </Folder>
+                <Folder name="0b">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\0b\04bcf12446a4241e0b6f1d25c67ed2c28488b1" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\0b\1ad96634ca6bf73bf463958c5ed3274ccc9a92" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\0b\e803e140c2ded20703ad794a551e1f4338630d" />
+                </Folder>
+                <Folder name="11">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\11\d8dc078afccca7ea2ef54369fe7c1e1edbcc92" />
+                </Folder>
+                <Folder name="14">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\14\8771ea03bbc46b9cdefd4cbbd0de9617a4c897" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\14\d64a3be999b25b4959bc3f419647b574a43b14" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\14\d71d55b23dabb22987a9fb8e7748cd7178ee4f" />
+                </Folder>
+                <Folder name="15">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\15\99e7f9e4e677a6119e9f08efa6b0e3d3e95883" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\15\ef17efbda940d63be8bb3eccf172488725ec68" />
+                </Folder>
+                <Folder name="16">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\16\5003b7f14fe3d80965836a702af59a3b004630" />
+                </Folder>
+                <Folder name="18">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\18\0ab41d5daaa96f073215f0728e9b45f264cbb9" />
+                </Folder>
+                <Folder name="19">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\19\31f8fc9bb8da315bedca4a9a2672ba6c1ab4c9" />
+                </Folder>
+                <Folder name="1c">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\1c\0bc416bc2834b7d46c6d462785761fef96489a" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\1c\1daf668ac410a93073193c55d3cc2e6587faec" />
+                </Folder>
+                <Folder name="1d">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\1d\6b0dd0f5438254dbb8859bb2f6a84e315e8952" />
+                </Folder>
+                <Folder name="1e">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\1e\7c12f8010a189aca835532a2d5fa6b30388d5a" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\1e\a13cdc996fdd2efd750ac488d9d064ac7c2d47" />
+                </Folder>
+                <Folder name="1f">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\1f\9532cb0c385123b208aefc5dbb22c60035ffdd" />
+                </Folder>
+                <Folder name="21">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\21\ce8fb2e491a516d6ebfdf7a1b9f07900ac9d97" />
+                </Folder>
+                <Folder name="22">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\22\75c2631033bf311c74ff4b9250096bf1b0629d" />
+                </Folder>
+                <Folder name="24">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\24\25ce8e277c87c14825d7d6e884b20b5659a7eb" />
+                </Folder>
+                <Folder name="25">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\25\6fc6a9e141a08e77149b389907b82369d8e9ee" />
+                </Folder>
+                <Folder name="26">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\26\4c3aef406bc842ab9dbc9c5ec7913dfc3d5044" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\26\c3605cb0797fa9e3a204d1ad8d8551529e6508" />
+                </Folder>
+                <Folder name="27">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\27\0664fa5487ca89515ee569eeace8cc9c10f128" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\27\86f27c6c34dd039d4a0e3773fb163a31915e9c" />
+                </Folder>
+                <Folder name="29">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\29\07fe311b398513c54e3749594e18a9b2763fb3" />
+                </Folder>
+                <Folder name="2b">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\2b\ed3403b7da7b19fae24fb847f14b0fb31cd7fd" />
+                </Folder>
+                <Folder name="2c">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\2c\0c8bcd1da4d850feafc9c0f429a31f4eb4828a" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\2c\9d5a1fc460dc2d9482374b0836123e09c24843" />
+                </Folder>
+                <Folder name="2e">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\2e\fa6d4009da3b577fc3cd5fc2ad4a2020b542d3" />
+                </Folder>
+                <Folder name="2f">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\2f\7c285d731fcf8b6f7ef007de37daa3183b1d9b" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\2f\fcc68d1cc313ccb8287d4fe2c702fa7067bba8" />
+                </Folder>
+                <Folder name="31">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\31\07119cdb47b795c2777aff4507ca5a53fcbe0c" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\31\a14538c5f69151e66ff3f10ad7b9d9e322bb80" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\31\ee9cd8116b6b65683351c782446eb7ee48cf15" />
+                </Folder>
+                <Folder name="32">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\32\88d1035d70bb86517e2c233f1a904e41f06b29" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\32\987cfaaa81a368e8c8d789830004990a8d3c81" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\32\d43605a029f89dd5e193c78284d839b5a671f5" />
+                </Folder>
+                <Folder name="35">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\35\51b6a27c404cc45075b9f9eab803ea23b2c2f9" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\35\9397acffdd84bd102f0e8a951c9d744f278db5" />
+                </Folder>
+                <Folder name="36">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\36\e8a119705f8a4fd470329918166897c070135c" />
+                </Folder>
+                <Folder name="38">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\38\837795279c5eb281e98ce6017998b993026518" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\38\bed6983bb5d744c7b40d32a6eb6b7b333271a3" />
+                </Folder>
+                <Folder name="39">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\39\d5824d6af5456f1e89fc7847ea3599ea5fd815" />
+                </Folder>
+                <Folder name="3a">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\3a\1aee2aea663fc036c3d0cabd875e8331b59c95" />
+                </Folder>
+                <Folder name="3b">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\3b\1b54fd454c94cf15b416ed3698dccf5ada7d9a" />
+                </Folder>
+                <Folder name="3d">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\3d\125dcd708fa405129e344a33b6db7d80cf774f" />
+                </Folder>
+                <Folder name="3e">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\3e\2c14f7b54bb64b4d88fc31fcc17637c4aab67a" />
+                </Folder>
+                <Folder name="3f">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\3f\0d085b21a3ad498c0feb393c9ed9576d9af816" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\3f\7988ec99dad735436e994ea0eec80e74b69558" />
+                </Folder>
+                <Folder name="40">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\40\14e6d0fec7ee433e698d1dc69759a38a4a3b75" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\40\283d2ea16d12c2a151f2fe03f1dd5c2888eba2" />
+                </Folder>
+                <Folder name="41">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\41\ca7b30008b733b1836b065f93ccd4bb2623bc1" />
+                </Folder>
+                <Folder name="42">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\42\480317f4d1d7045cf095e0c2eeb9173adfbcf6" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\42\ccba269b6e91bef12ad0fa18be651b5ef0ee68" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\42\f8f992c727ddaa617da224a522e463df690387" />
+                </Folder>
+                <Folder name="44">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\44\6a27d46271dc38661c76e85d628c8ee44e5336" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\44\a2d2c7e8cfaeb58816d4105a7a32da8ae8b510" />
+                </Folder>
+                <Folder name="48">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\48\1d5c186262c9caa36fef4605eda5697e16db37" />
+                </Folder>
+                <Folder name="49">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\49\a48ac07d9c4cf1e68375ac0d75acf083305fc9" />
+                </Folder>
+                <Folder name="4a">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\4a\2fe6c2f34ff2b11fb099e4172a066a96d0a033" />
+                </Folder>
+                <Folder name="4b">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\4b\7dcb11b1c36b108792e6d3953b3fca9f9c12bd" />
+                </Folder>
+                <Folder name="4e">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\4e\dc858e54a653e7e27b13d75c73a34f7725ec9a" />
+                </Folder>
+                <Folder name="50">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\50\9f6e4e27ccfecb7beae36121a121adfd32b510" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\50\c930455f1c9f4e171891e6379c17b96dc27d37" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\50\d1b22f274d2cc896a3686a2b8ec373536e8e57" />
+                </Folder>
+                <Folder name="52">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\52\19e7776a32744d0d8bbe6df3788d17c6f43969" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\52\b93e7847a0b2d1c42d06e685d703f55192c425" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\52\de30e65e176d93342e9fc543c0bd4921b00bc1" />
+                </Folder>
+                <Folder name="54">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\54\de4a2bc4a5947e80d258b80ea709d0b7c29c99" />
+                </Folder>
+                <Folder name="56">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\56\649319b586ee0107b67b1d54de10c409590d9a" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\56\d419437b2a2e382b6dac20ba98026ecb7aa286" />
+                </Folder>
+                <Folder name="57">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\57\639075fbda2a963d7fcac512b3684bd4c601c7" />
+                </Folder>
+                <Folder name="5b">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\5b\74f259746f2a4d1e94f46dc001232e0422253c" />
+                </Folder>
+                <Folder name="5c">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\5c\e2d9cc112bad309f54d061aae0e161460fcc70" />
+                </Folder>
+                <Folder name="5f">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\5f\282702bb03ef11d7184d19c80927b47f919764" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\5f\48f8832de6441f1562a5bd5a897dee80a05811" />
+                </Folder>
+                <Folder name="60">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\60\88ae4472687e2ed45b978f1da5e5fedeb8affc" />
+                </Folder>
+                <Folder name="62">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\62\0e58e81db1a9c8fdce641be473d4873c2cf76b" />
+                </Folder>
+                <Folder name="63">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\63\6485c29baf1364423ae61c60370ca45bdf8b59" />
+                </Folder>
+                <Folder name="64">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\64\ece5707d91a6edf9fad4bfcce0c4dbcafcf58d" />
+                </Folder>
+                <Folder name="65">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\65\4ac1a333508d056c6fa84e79e01c4bea3de52c" />
+                </Folder>
+                <Folder name="66">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\66\6d1d6f9a2b340307e4e0322fea56d1a12bf35d" />
+                </Folder>
+                <Folder name="67">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\67\e7b6bacf6621d75ab9337e73de38dd6fc2eecc" />
+                </Folder>
+                <Folder name="68">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\68\68ebbefbfbbfe46ac8741564f505d2b137235d" />
+                </Folder>
+                <Folder name="6c">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\6c\996ed766a821df803ddcfaa1f1a8e36f4e8cf9" />
+                </Folder>
+                <Folder name="70">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\70\31a1c39a2fd728ef0b52a60cc46bfb50356cc7" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\70\85ce01e68f39f96d3b6a410d1ef5b6d1f2b883" />
+                </Folder>
+                <Folder name="71">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\71\4bcf3a0ceed289baaf35a7f8ada572df1fa0bb" />
+                </Folder>
+                <Folder name="72">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\72\b76309c10adac1e01d9307f8dc8b51224a3909" />
+                </Folder>
+                <Folder name="74">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\74\31eaa0876acabc3eb483c0da3f3ffa4ed54a15" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\74\f4bf5ebc65b9a22e8933adb3aea9e598a0b85e" />
+                </Folder>
+                <Folder name="75">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\75\34361c4bccbcfccbe8aabe1ed71b01c0d9e8e3" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\75\ce0fcf1a54d5415f26f3f6f07efea2140fa0d0" />
+                </Folder>
+                <Folder name="76">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\76\230d306057641949d55adb2c2bad8cede8494d" />
+                </Folder>
+                <Folder name="78">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\78\b96d0b991ba0e7345fb153d7b47f158e26b6ff" />
+                </Folder>
+                <Folder name="79">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\79\0dbb617a3351143a2892eeeb50c16a5afef6e4" />
+                </Folder>
+                <Folder name="7a">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\7a\6432d3a6134532cf8bf652b1747862a0509b6f" />
+                </Folder>
+                <Folder name="7b">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\7b\07f2837993ca1030b5dc3a4293e6aff040cde1" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\7b\7ed70a5da792984c6b989e9deb22ccf1ff342b" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\7b\f6c1c7ef3fad084825589da3f11eeaf65e93c5" />
+                </Folder>
+                <Folder name="7d">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\7d\d15be68548bbb4b3392e94111815fa9c8da721" />
+                </Folder>
+                <Folder name="7e">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\7e\26d57c290ea1b8c3da9b963456a2f61f70f219" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\7e\641cf042006035f7793574f1cf80b775ef61b9" />
+                </Folder>
+                <Folder name="7f">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\7f\1997a76c0786a18c77874955f048be9fa203ef" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\7f\b3cfe03be04fab0d85368ebee55500148f8a1d" />
+                </Folder>
+                <Folder name="80">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\80\9b15091648a3005b1582147aaf17f11325a3ff" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\80\e657e2bb4f1674ecbb889deb0581ef1e8b02bf" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\80\f68546e206664a515fa2efe0cc016b5d524f15" />
+                </Folder>
+                <Folder name="81">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\81\4b956b0fdb2911b96aef3711ae59600d53fd9a" />
+                </Folder>
+                <Folder name="82">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\82\1d1e3c2d30bf9651cb7eb342aba1bf4bfdcea0" />
+                </Folder>
+                <Folder name="85">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\85\2b04623e9fcbf045acab72613d19b59387b2a2" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\85\e63e9f604ce042d59eb06a8428eeb7cb7896c9" />
+                </Folder>
+                <Folder name="87">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\87\38d2eb211eb6eb6317be570bccd2499cb0dda8" />
+                </Folder>
+                <Folder name="88">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\88\29d3d50962868f3f61e8bfd60eae8c574dbe6c" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\88\2ce11d9ced31e1890103c28709b10719e63941" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\88\ba126f26be06ae87d69e2ae79102f5e83f33ec" />
+                </Folder>
+                <Folder name="89">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\89\7fffb215553c683a8ce17a0434d818bc7ce5e6" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\89\e3a8eb3f0c1f6f1e1fe2e787020dbdbd3848be" />
+                </Folder>
+                <Folder name="8a">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\8a\532be85ecae6b8c8509752ba27fd924edff6bc" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\8a\96a46ed598cf8126c4d9ee3e5118c26ebc8702" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\8a\9e43bc9584f8c6cc84ae7ba5b7781532efa925" />
+                </Folder>
+                <Folder name="8c">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\8c\25129364c793f60f9004f3dfae9a265ffe29fc" />
+                </Folder>
+                <Folder name="8d">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\8d\521501ff01678282f4840c8d9d916ad679ec36" />
+                </Folder>
+                <Folder name="8f">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\8f\b1b919a51108363fd50b047a264c0170c3d582" />
+                </Folder>
+                <Folder name="91">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\91\819edc7e609696dfab268c23700348526c3d59" />
+                </Folder>
+                <Folder name="92">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\92\68eec3cd3aedc2bdf25b40376ebbdcd2784512" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\92\cc4f28aa3541f79e067e9c602fa5f04df13bd6" />
+                </Folder>
+                <Folder name="93">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\93\9ddbedb7ef0dcbcfd70054ac67e3ccc097612c" />
+                </Folder>
+                <Folder name="94">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\94\73c16879e105232db54d72b1a5cd313fc973cb" />
+                </Folder>
+                <Folder name="95">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\95\4e22dbd99e8c6dd7091335599abf2d10bf8003" />
+                </Folder>
+                <Folder name="97">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\97\71bef9515cb479756e1ddb6e915c5c55604643" />
+                </Folder>
+                <Folder name="99">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\99\8674e7a5630ba145c6b8705d31bed19866bb0c" />
+                </Folder>
+                <Folder name="9a">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\9a\5b4ff74e3f314389d6a89ccb311fce1561c5bd" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\9a\ed93c9fb46a8d48f435f047114f598204353c5" />
+                </Folder>
+                <Folder name="9b">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\9b\383f4d2eab09c0f2a739d6b232c32934bc620b" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\9b\3ebdf1a5e26e9005d51fe777c3dea38c0480e8" />
+                </Folder>
+                <Folder name="9d">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\9d\766a0de1350893eb409fd33bde690b81305e45" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\9d\f4b1f02d40aec2afad4735e1f32aa0eaec969c" />
+                </Folder>
+                <Folder name="9e">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\9e\5c993bde91877b1657ce400a8a08b057dd8214" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\9e\e1ec663e445fbe4e5540fef294f5f86931f40e" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\9e\e608826ef4f71300105e0ffe08102d53a349a6" />
+                </Folder>
+                <Folder name="9f">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\9f\219eb62b34fa6ff766900bd5a4d069f6a0f720" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\9f\694e0ef531ab50b92be6c85dea6744f93e0f09" />
+                </Folder>
+                <Folder name="a1">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\a1\8c3357c2c3e8545d75731b1763366e54070e09" />
+                </Folder>
+                <Folder name="a2">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\a2\3baad25b1d1ff36e17361eab24271f2e9b7326" />
+                </Folder>
+                <Folder name="a4">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\a4\dc9daadcc27d2d31883659643701dc028a50a4" />
+                </Folder>
+                <Folder name="a5">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\a5\4ac3d5cf0f011bb66dc40a096b70de52c20ffd" />
+                </Folder>
+                <Folder name="a6">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\a6\41a371afa0fbb08ba599dc7ddf14b9bfc3c84f" />
+                </Folder>
+                <Folder name="a7">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\a7\97ba37162185b0c4e6b04924c7dca696498e77" />
+                </Folder>
+                <Folder name="aa">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\aa\747e59ffdad9ea4e786459cbca1afdcf56c866" />
+                </Folder>
+                <Folder name="ab">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\ab\63436e4bb35b313f0f63357779e30f49d56b80" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\ab\dc01082bf3534eafecc5819d28c9574d44ea89" />
+                </Folder>
+                <Folder name="ae">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\ae\5344ed5249ff5a4dc6f0d5cf2ab7bf8f0639cc" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\ae\d8887d803dfa969e7b2c6d31063ca484a90be6" />
+                </Folder>
+                <Folder name="b1">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\b1\7f7ec1aff494b8c1f626386fd3fe9e3af51d43" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\b1\f311c9139c4abb0e0439883342b8800588f9f3" />
+                </Folder>
+                <Folder name="b2">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\b2\73ff111d219c9b9a8b96d57683d0075fb7871a" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\b2\9be624da31bfb016e23e6258d6b267f4148eb1" />
+                </Folder>
+                <Folder name="b4">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\b4\8800ee8821a822676e9ecc98c0cb6b44a577da" />
+                </Folder>
+                <Folder name="b5">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\b5\4895d3cc5b00762d62f83b47d723ea585a1337" />
+                </Folder>
+                <Folder name="b6">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\b6\17ee297f823da4846efaa7889608b7ed04bbc0" />
+                </Folder>
+                <Folder name="b7">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\b7\27348444c4d62537a3879b5552a1bcdc6ef8b7" />
+                </Folder>
+                <Folder name="b8">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\b8\865a6c59fa34a8f4999726acffbba105af466e" />
+                </Folder>
+                <Folder name="ba">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\ba\146c06664dd68a11f5836defac29297203e430" />
+                </Folder>
+                <Folder name="bc">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\bc\562209ba6bfee056ded4d749addd4ce4a4a460" />
+                </Folder>
+                <Folder name="bd">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\bd\6a65f2778df33a0bfdb91bc0d595ff750f6a6e" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\bd\8f0a365b735f6f71b3fefcdd2dad63037c7919" />
+                </Folder>
+                <Folder name="c0">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\c0\70c84c8cabdd32790a94d97bc006076a494bb8" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\c0\a2054cca8b2e5c78fc6cb64fb38c2af7c354e8" />
+                </Folder>
+                <Folder name="c1">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\c1\c2e14413cf272f8626fd94a43490b23d84b166" />
+                </Folder>
+                <Folder name="c2">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\c2\9b4ee6f7a638cc365319263311fdf31d9e4e3d" />
+                </Folder>
+                <Folder name="c3">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\c3\2bf8f8b66bee527433023aff911f6a80280a81" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\c3\697046f73e596916c367309a9b3e124c15f325" />
+                </Folder>
+                <Folder name="c5">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\c5\f6f777c33e8cc760c841f86c74d212230512cc" />
+                </Folder>
+                <Folder name="c8">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\c8\e19a65ffec7fd28fbe55c5deaca2a4d19cd194" />
+                </Folder>
+                <Folder name="c9">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\c9\77745373c57f232321b2fdf2100f5ede05fd5b" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\c9\c95e3661d0f49d5d3a9b6320c0b4101a2693de" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\c9\cec757044b2473157ee937adefd58424c1e5a4" />
+                </Folder>
+                <Folder name="cb">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\cb\6cbe8742ec5d61031fb7097b597bfd1b3eaefb" />
+                </Folder>
+                <Folder name="cc">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\cc\2bfa7f85161e93fd8ce5c62f665f8a14ebff65" />
+                </Folder>
+                <Folder name="ce">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\ce\97a70b30469107e030658221f247aef704bb07" />
+                </Folder>
+                <Folder name="cf">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\cf\82efed87bf11c24a6694d1d2b1299d5fac2283" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\cf\f427a9432e6431cf34340bc9772527e4e8cee3" />
+                </Folder>
+                <Folder name="d1">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\d1\2ea477d7b1d7bc5723c0d7dc55ee9c78dc05db" />
+                </Folder>
+                <Folder name="d2">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\d2\070b7e40bed3e4432ac2ab7227d6a74110bb03" />
+                </Folder>
+                <Folder name="d3">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\d3\38e512f9e549f456c70f40554a113e84362932" />
+                </Folder>
+                <Folder name="d6">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\d6\4c5ae371845e6031d504c91e87ea993d83bfe2" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\d6\a3bef1c1164d73a0be74003f54eae05543193a" />
+                </Folder>
+                <Folder name="d8">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\d8\497862efa20f4623cee13c6d14c16f3b354ef2" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\d8\6548cd5241066299ab0c6cd2f26a4f4b800acb" />
+                </Folder>
+                <Folder name="d9">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\d9\0288f435f0b71e69d086bafab9ccae489c3617" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\d9\3e4977ce792c8994f71c55b822aecc63be7ba5" />
+                </Folder>
+                <Folder name="da">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\da\95b8e8f00b5ab812c3a820d56f1df0d9feca66" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\da\fd6ede1714946abc737fe8275aef87eaa5d6fe" />
+                </Folder>
+                <Folder name="db">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\db\55646e83ba7a30a56103c013eecb3f4f2912db" />
+                </Folder>
+                <Folder name="df">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\df\1e8fc699e7a014da4ee501a3d7bdbb5f4527c0" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\df\d418d78c70bb9c25894d3c59de5612315fde02" />
+                </Folder>
+                <Folder name="e1">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\e1\17effa3dca24e7978cfc5f8b967f661e81044f" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\e1\6aecfe67dcbfd955f3ca8590f4756c8f996270" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\e1\b959e3ad7eb3771d914755a5bb65442f246fe4" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\e1\cb9f4cfa5c2e68c408b9c0028dc9750c9428b1" />
+                </Folder>
+                <Folder name="e2">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\e2\6c5ac9655e5ceacf287c8632bad5d9f0751b52" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\e2\6faf9a12861df6021350bad922d9719ea93d96" />
+                </Folder>
+                <Folder name="e6">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\e6\474b4dc1984ff1fce9f2aaece459f385990db5" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\e6\bf586e1f883e776a8b72a573f2deb2cb6029b9" />
+                </Folder>
+                <Folder name="e7">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\e7\2f9459a44fdc2392bed63fcced9aba47883a25" />
+                </Folder>
+                <Folder name="eb">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\eb\0a7f747c2fd2cc7ee6f1782feb0de7ebd9c93a" />
+                </Folder>
+                <Folder name="ee">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\ee\d17778c688271208406367c0c1681d81feca6f" />
+                </Folder>
+                <Folder name="ef">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\ef\1b1ced95e81462ce01c6be1626f968d4fd68e6" />
+                </Folder>
+                <Folder name="f0">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\f0\e5286f85858a81053ebfc821a31cd45bd934c1" />
+                </Folder>
+                <Folder name="f1">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\f1\273672d253263b7564e9e21d69d7d9d0b337d9" />
+                </Folder>
+                <Folder name="f2">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\f2\2a9a31579e75b115bbfe32ce340b8ee2e3b8f5" />
+                </Folder>
+                <Folder name="f3">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\f3\cf260ff5359ee3ad75600e208d43125308c588" />
+                </Folder>
+                <Folder name="f4">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\f4\3b76996020768c50500780b45ed507b83fd69e" />
+                </Folder>
+                <Folder name="f5">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\f5\cfdcac1b7b863f43efe1ad8102157ecc1543de" />
+                </Folder>
+                <Folder name="f6">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\f6\4297ff13efa7ef4b04a4b054ce0808a451ddda" />
+                </Folder>
+                <Folder name="f7">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\f7\0bc348bb2d83d5287cde7ea67c9d422a914839" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\f7\829acbb106a96d954329507233410d5ee47d65" />
+                </Folder>
+                <Folder name="f8">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\f8\cbbb63b80d40e13cee7dcb5474fab2db485743" />
+                </Folder>
+                <Folder name="fa">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\fa\4a831ddb454aeaaaf70dd0f2bc4b028ffb6448" />
+                </Folder>
+                <Folder name="fc">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\objects\fc\754a2b061a89e5693f3d9ae31d38ae289884a5" />
+                </Folder>
+                <Folder name="info" />
+            </Folder>
+            <Folder name="refs">
+                <Folder name="heads">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\refs\heads\master" />
+                </Folder>
+                <Folder name="tags" />
+            </Folder>
+            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\COMMIT_EDITMSG" />
+            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\config" />
+            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\HEAD" />
+            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\index" />
+            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\.git\sourcetreeconfig" />
+        </Folder>
+        <Folder name="author_source_code">
+            <Folder name="Chapter code">
+                <Folder name="Chapter 1">
+                    <Folder name="css">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 1\css\sliding-puzzle.css" />
+                    </Folder>
+                    <Folder name="img">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 1\img\space-girl-vera.jpg" />
+                    </Folder>
+                    <Folder name="js">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 1\js\sliding-puzzle.js" />
+                    </Folder>
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 1\sliding-puzzle.html" />
+                </Folder>
+                <Folder name="Chapter 10">
+                    <Folder name="css">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 10\css\sortable-table.css" />
+                    </Folder>
+                    <Folder name="js">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 10\js\sortable-table.js" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 10\js\table-data.js" />
+                    </Folder>
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 10\sortable-table.html" />
+                </Folder>
+                <Folder name="Chapter 2">
+                    <Folder name="css">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 2\css\fixed-sidebar.css" />
+                    </Folder>
+                    <Folder name="js">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 2\js\fixed-sidebar.js" />
+                    </Folder>
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 2\fixed-sidebar.html" />
+                </Folder>
+                <Folder name="Chapter 3">
+                    <Folder name="css">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 3\css\google-map.css" />
+                    </Folder>
+                    <Folder name="img">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 3\img\hq.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 3\img\start.png" />
+                    </Folder>
+                    <Folder name="js">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 3\js\google-map.js" />
+                    </Folder>
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 3\google-map.html" />
+                </Folder>
+                <Folder name="Chapter 4">
+                    <Folder name="css">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 4\css\bounty-hunter.css" />
+                    </Folder>
+                    <Folder name="img">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 4\img\boba.png" />
+                    </Folder>
+                    <Folder name="js">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 4\js\bounty-hunter.js" />
+                    </Folder>
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 4\bounty-hunter-about.html" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 4\bounty-hunter-list.html" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 4\bounty-hunter.html" />
+                </Folder>
+                <Folder name="Chapter 5">
+                    <Folder name="App_Code">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\App_Code\upload.cs" />
+                    </Folder>
+                    <Folder name="App_Data" />
+                    <Folder name="css">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\css\uploader.css" />
+                    </Folder>
+                    <Folder name="img">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\img\ajax-loader.gif" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\img\doc.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\img\exe.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\img\html.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\img\page_white.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\img\pdf.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\img\png.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\img\pps.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\img\start.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\img\txt.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\img\zip.png" />
+                    </Folder>
+                    <Folder name="js">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\js\uploader.js" />
+                    </Folder>
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\upload.asmx" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\uploader.html" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 5\Web.config" />
+                </Folder>
+                <Folder name="Chapter 6">
+                    <Folder name="chrome-extension">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 6\chrome-extension\background.js" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 6\chrome-extension\common.css" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 6\chrome-extension\content.css" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 6\chrome-extension\content.js" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 6\chrome-extension\jquery-1.9.0.min.js" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 6\chrome-extension\jsrender.js" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 6\chrome-extension\manifest.json" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 6\chrome-extension\popup.css" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 6\chrome-extension\popup.html" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 6\chrome-extension\popup.js" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 6\chrome-extension\template.html" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 6\chrome-extension\template.js" />
+                    </Folder>
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 6\person.html" />
+                </Folder>
+                <Folder name="Chapter 8">
+                    <Folder name="css">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 8\css\infinite-scroller.css" />
+                    </Folder>
+                    <Folder name="js">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 8\js\infinite-scroller.js" />
+                    </Folder>
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 8\infinite-scroller.html" />
+                </Folder>
+                <Folder name="Chapter 9">
+                    <Folder name="App_Code">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\App_Code\heat-map.cs" />
+                    </Folder>
+                    <Folder name="js">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\js\heat-map-client.js" />
+                    </Folder>
+                    <Folder name="simplex">
+                        <Folder name="css">
+                            <Folder name="fonts">
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\css\fonts\icons.eot" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\css\fonts\icons.svg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\css\fonts\icons.ttf" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\css\fonts\icons.woff" />
+                            </Folder>
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\css\console.css" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\css\gallery.css" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\css\normalize.css" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\css\style.css" />
+                        </Folder>
+                        <Folder name="images">
+                            <Folder name="full">
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\1.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\10.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\11.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\12.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\13.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\14.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\15.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\16.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\17.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\18.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\19.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\2.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\20.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\21.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\22.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\23.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\24.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\3.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\4.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\5.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\6.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\7.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\8.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\full\9.jpg" />
+                            </Folder>
+                            <Folder name="thumbs">
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\1.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\10.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\11.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\12.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\13.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\14.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\15.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\16.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\17.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\18.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\19.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\2.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\20.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\21.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\22.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\23.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\24.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\3.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\4.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\5.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\6.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\7.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\8.jpg" />
+                                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\thumbs\9.jpg" />
+                            </Folder>
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\images\arrows.png" />
+                        </Folder>
+                        <Folder name="img">
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\about-us.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\bg.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\fb.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\fl.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\footer-bg.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\li.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\logo.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\map.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\process.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\service-img1 - Copy.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\service-img1.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\service-img2.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\service-img3.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\service-img4.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\simplex-featured-image.psd" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\team-01.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\team-02.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\team-03.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\tw.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\img\who-we-are-col-3.jpg" />
+                        </Folder>
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\console.html" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\console.js" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\contact.html" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\gallery.html" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\index.html" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\simplex\who-we-are.html" />
+                    </Folder>
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\click manager.bak" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\Chapter 9\heat-map.asmx" />
+                </Folder>
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Chapter code\README.txt" />
+            </Folder>
+            <Folder name="Complete code">
+                <Folder name="App_Code">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\App_Code\heat-map.cs" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\App_Code\upload.cs" />
+                </Folder>
+                <Folder name="App_Data" />
+                <Folder name="chrome-extension">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\chrome-extension\background.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\chrome-extension\common.css" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\chrome-extension\content.css" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\chrome-extension\content.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\chrome-extension\jquery-1.9.0.min.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\chrome-extension\jsrender.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\chrome-extension\manifest.json" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\chrome-extension\popup.css" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\chrome-extension\popup.html" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\chrome-extension\popup.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\chrome-extension\template.html" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\chrome-extension\template.js" />
+                </Folder>
+                <Folder name="css">
+                    <Folder name="ui-lightness">
+                        <Folder name="images">
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\images\ui-bg_diagonals-thick_18_b81900_40x40.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\images\ui-bg_diagonals-thick_20_666666_40x40.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\images\ui-bg_flat_10_000000_40x100.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\images\ui-bg_glass_100_f6f6f6_1x400.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\images\ui-bg_glass_100_fdf5ce_1x400.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\images\ui-bg_glass_65_ffffff_1x400.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\images\ui-bg_gloss-wave_35_f6a828_500x100.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\images\ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\images\ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\images\ui-icons_222222_256x240.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\images\ui-icons_228ef1_256x240.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\images\ui-icons_ef8c08_256x240.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\images\ui-icons_ffd27a_256x240.png" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\images\ui-icons_ffffff_256x240.png" />
+                        </Folder>
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\jquery-ui-1.10.0.custom.css" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\jquery-ui-1.10.0.custom.min.css" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\ui-lightness\jquery-ui-1.8.22.custom.css" />
+                    </Folder>
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\bounty-hunter.css" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\common.css" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\fixed-sidebar.css" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\google-map.css" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\heat-map.css" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\infinite-scroller.css" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\sliding-puzzle.css" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\sortable-table.css" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\css\uploader.css" />
+                </Folder>
+                <Folder name="img">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\img\ajax-loader.gif" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\img\boba.png" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\img\doc.png" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\img\exe.png" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\img\hq.png" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\img\html.png" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\img\page_white.png" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\img\pdf.png" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\img\png.png" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\img\pps.png" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\img\space-girl-vera.jpg" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\img\start.png" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\img\txt.png" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\img\zip.png" />
+                </Folder>
+                <Folder name="jquery-source" />
+                <Folder name="js">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\js\bounty-hunter.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\js\fixed-sidebar.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\js\google-map.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\js\heat-map-client.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\js\infinite-scroller.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\js\jquery-1.8.3.min.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\js\jquery-1.9.0.min.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\js\jquery-ui-1.10.0.custom.min.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\js\jquery.imagesloaded.min.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\js\knockout-2.2.1.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\js\sliding-puzzle.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\js\sortable-table.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\js\table-data.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\js\uploader.js" />
+                </Folder>
+                <Folder name="simplex">
+                    <Folder name="css">
+                        <Folder name="fonts">
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\css\fonts\icons.eot" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\css\fonts\icons.svg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\css\fonts\icons.ttf" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\css\fonts\icons.woff" />
+                        </Folder>
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\css\console.css" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\css\gallery.css" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\css\normalize.css" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\css\style.css" />
+                    </Folder>
+                    <Folder name="images">
+                        <Folder name="full">
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\1.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\10.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\11.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\12.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\13.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\14.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\15.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\16.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\17.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\18.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\19.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\2.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\20.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\21.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\22.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\23.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\24.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\3.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\4.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\5.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\6.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\7.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\8.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\full\9.jpg" />
+                        </Folder>
+                        <Folder name="thumbs">
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\1.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\10.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\11.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\12.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\13.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\14.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\15.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\16.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\17.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\18.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\19.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\2.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\20.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\21.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\22.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\23.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\24.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\3.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\4.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\5.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\6.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\7.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\8.jpg" />
+                            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\thumbs\9.jpg" />
+                        </Folder>
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\images\arrows.png" />
+                    </Folder>
+                    <Folder name="img">
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\about-us.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\bg.jpg" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\fb.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\fl.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\footer-bg.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\li.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\logo.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\map.jpg" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\process.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\service-img1 - Copy.jpg" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\service-img1.jpg" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\service-img2.jpg" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\service-img3.jpg" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\service-img4.jpg" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\simplex-featured-image.psd" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\team-01.jpg" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\team-02.jpg" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\team-03.jpg" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\tw.png" />
+                        <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\img\who-we-are-col-3.jpg" />
+                    </Folder>
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\console.html" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\console.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\contact.html" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\gallery.html" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\index.html" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\simplex\who-we-are.html" />
+                </Folder>
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\bounty-hunter-about.html" />
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\bounty-hunter-list.html" />
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\bounty-hunter.html" />
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\fixed-sidebar.html" />
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\google-map.html" />
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\heat-map.asmx" />
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\infinite-scroller.html" />
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\person.html" />
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\sliding-puzzle.html" />
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\sortable-table.html" />
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\upload.asmx" />
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\uploader.html" />
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\Complete code\Web.config" />
+            </Folder>
+            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\author_source_code\README.txt" />
+        </Folder>
+        <Folder name="ch1-sliding_puzzle">
+            <Folder name="css">
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\ch1-sliding_puzzle\css\common.css" />
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\ch1-sliding_puzzle\css\sliding-puzzle.css" />
+            </Folder>
+            <Folder name="img">
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\ch1-sliding_puzzle\img\Flower.jpg" />
+            </Folder>
+            <Folder name="js">
+                <Folder name="libs">
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\ch1-sliding_puzzle\js\libs\jquery-2.1.4.js" />
+                    <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\ch1-sliding_puzzle\js\libs\jquery-ui.js" />
+                </Folder>
+                <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\ch1-sliding_puzzle\js\sliding-puzzle.js" />
+            </Folder>
+            <File name="C:\Users\ahall\IDrive-Sync\programming\jquery-hotshots\ch1-sliding_puzzle\sliding-puzzle.html" />
+        </Folder>
+        <Folder name="misc">
+            <File name="jquery-notes.txt" />
+        </Folder>
+    </Project>
+</NotepadPlus>

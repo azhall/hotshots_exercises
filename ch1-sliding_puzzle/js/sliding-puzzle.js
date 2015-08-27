@@ -23,6 +23,7 @@ $(function() {
         currentTime = { },
         timerDisplay = container.find("#time").find("span");
     
+    //generate puzzle pieces
     for(var x = 0, y = aspectH; x < y; x++) {
         for(var a = 0, b = aspectW; a < b; a++) {
             var top = pieceH * x,
@@ -37,12 +38,10 @@ $(function() {
                      top: top,
                      left: left,
                      backgroundImage: ["url(", path, ")"].join(""),
-                     backgroundPosition: [
-                         "-", left, "px ",
-                         "-", top, "px"
-                     ].join("")
+                backgroundPosition: ["-", pieceW * a, "px ", "-", pieceH * x, "px"].join("")
             }).appendTo(imgContainer);
 
+            //store positions
             positions.push({ top: top, left: left });
         }
     }
@@ -52,6 +51,7 @@ $(function() {
     positions.shift();
 
     $("#start").on("click", function(e) {
+        //shuffle the pieces randomly
         var pieces = imgContainer.children();
 
         function shuffle(array) {
@@ -72,18 +72,19 @@ $(function() {
         
         shuffle(pieces);
         
+        //set position of shuffled images
         $.each(pieces, function(i) {
             pieces.eq(i).css(positions[i]);
         });
         
+        //replace existing pieces with shuffled pieces
         pieces.appendTo(imgContainer);
         
+        //make sure empty slot is at position 0 when timer starts
         empty.top = 0;
         empty.left = 0;
         
         container.find("#ui").find("p").not("#time").remove();
-    
-        pieces.appendTo(imgContainer).draggable("destroy");
 
         if(timer) {
             clearInterval(timer);
@@ -132,19 +133,16 @@ $(function() {
             drag: function(e, ui) {
                 var current = getPosition(ui.helper);
                 
-                ui.helper.draggable("option", "revert", false);
+                //stop dragging if we are in the empty space
                 
                 if(current.top === empty.top && current.left === empty.left) {
                     ui.helper.trigger("mouseup");
                     return false;
                 }
                 
-                if(current.top > empty.bottom ||
-                   current.bottom < empty.top ||
-                   current.left > empty.right ||
-                   current.right < empty.left) {
-                       ui.helper.trigger("mouseup")
-                                .css({
+                //stop dragging if moving away from empty space
+                if (current.top > empty.bottom || current.bottom < empty.top || current.left > empty.right || current.right < empty.left) {
+                    ui.helper.trigger("mouseup").css({
                                     top: previous.top,
                                     left: previous.left
                                 });
@@ -152,13 +150,54 @@ $(function() {
                    }
             },
             stop: function(e, ui) {
-                var current = getPosition(ui.helper);
+                var current = getPosition(ui.helper),
+					correctPieces = 0; 
                 
+                //move empty space if space now occupied
                 if(current.top === empty.top && current.left === empty.left) {
                     empty.top = previous.top;
                     empty.left = previous.left;
                     empty.bottom = previous.top + pieceH;
                     empty.right = previous.left + pieceW;
+                }
+                
+                //get positions of all pieces
+                $.each(positions, function(i) {
+                    var currentPiece = $("#" + (i + 1)),
+                        currentPosition = getPosition(currentPiece);
+                
+                    //is the current piece in the correct place?
+                    if(positions[i].top === currentPosition.top && positions[i].left === currentPosition.left) {
+                        correctPieces++;
+                    }
+                });
+                
+                if(correctPieces === positions.length) {
+                    //stop timer
+                    clearInterval(timer);
+                    $("<p />", {
+                        text: "Congratulations, you solved the puzzle!"
+                    }).appendTo("#ui");
+                }
+                
+                // convert time to seconds
+                var totalSeconds = (currentTime.hours * 60 * 60) + (currentTime.minutes * 60) + currentTime.seconds;
+                
+                if(localStorage.getItem("puzzleBestTime")) {
+                    var bestTime = localStorage.getItem("puzzleBestTime");
+                    if(totalSeconds < bestTime) {
+                        localStorage.setItem("puzzleBestTime, totalSeconds");
+                        
+                        $("<p />", {
+                            text: "You got a new best time!"
+                        }).appendTo("#ui");
+                    }
+                } else {
+                    localStorage.setItem("puzzleBestTime", totalSeconds);
+                    
+                    $("<p />", {
+                        text: "You got a new best time!"
+                    }).appendTo("#ui");
                 }
             }
         });
